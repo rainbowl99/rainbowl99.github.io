@@ -1,3 +1,3 @@
 # rainbowl99.github.io
-Individual projects
+Individual projects \\
 https://github.com/rainbowl99/Projet-de-Simulation-robotique.git
