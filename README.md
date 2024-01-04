@@ -32,7 +32,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-   <img alt="GIF" src="./images/code.gif" width="600" height="100%"; height: auto; margin: auto;"  />
+   <img alt="GIF" src="./images/code.gif" width="600" style="max-width: "100%"; height: auto; margin: auto;"  />
 </div>
 
 ### Github activity level
