@@ -1,11 +1,11 @@
 # Zhichen LU —— Sorbonne University 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img alt="GIF" src="./images/code.gif" width="430" height="100%" />
-   <img src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
+   <img alt="GIF" src="./images/code.gif" width="430" height="100%" />
 </div>
 
-
+<img align="right" src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
+   
 ### **Technology Stacks:**
 <a href="https://www.python.org"><code><img height="20" src="./images/python.png"></code></a>
 <a href="https://pytorch.org/"><code><img height="20" src="./images/Pytorch.png"></code></a>
