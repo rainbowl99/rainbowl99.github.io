@@ -1,11 +1,9 @@
 # Zhichen LU —— Sorbonne University 
 
-<p align="left">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img alt="GIF" src="./images/code.gif" width="430" height="100%" />
-</p>
-<p align="right">
    <img src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
-</p>
+</div>
 
 
 ### **Technology Stacks:**
