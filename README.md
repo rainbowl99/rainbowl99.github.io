@@ -1,6 +1,6 @@
 # Zhichen LU —— Sorbonne University M2 —— Advanced systems and robotics
 
-<img align="right" src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
+
    
 ### **Technology Stacks:**
 <a href="https://www.python.org"><code><img height="20" src="./images/python.png"></code></a>
