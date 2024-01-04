@@ -29,6 +29,6 @@
 ### Github activity level
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-   <img alt="GIF" src="./images/code.gif" style="max-width: 100%; height: auto; margin-right: auto;" />
+   <img alt="GIF" src="./images/code.gif" style="max-width: "100%"; height: auto; margin-right: auto;" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowl99&langs_count=6" style="max-width: 100%; height: auto;" />
 </div>
