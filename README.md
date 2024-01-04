@@ -1,5 +1,5 @@
 # rainbowl99.github.io
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
 
 ### **Technology Stacks:**
 
@@ -28,4 +28,5 @@
 
 ### Github activity level
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowl99&langs_count=6)
+
