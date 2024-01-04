@@ -1,4 +1,4 @@
-# Zhichen LU —— Sorbonne University 
+# Zhichen LU —— Sorbonne University M2 —— Advanced systems and robotics
 
 <img align="right" src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
    
