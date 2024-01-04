@@ -1,5 +1,10 @@
-<h1 align="center"># Zhichen LU —— Sorbonne University M2</h1>
-<p align="center"><strong style="color: red;">--- Advanced systems and robotics ---</strong></p>
+<div align="center">
+  
+# Zhichen LU —— Sorbonne University M2
+--- Advanced systems and robotics ---
+
+</div>
+
 
 
 ### **Technology Stacks:**
