@@ -24,12 +24,12 @@
     11. [Identification 2ddl Bras dynamique](https://github.com/rainbowl99/Identification_2ddl_Bras_dynamique.git)<br>
     12. [IDENTIFICATION-D-UN-ROBOT-PLAN-RR](https://github.com/rainbowl99/IDENTIFICATION-D-UN-ROBOT-PLAN-RR.git)<br>
 
-    <div align="right">
+    <div align="right"> <!-- 将这个 div 放在你希望计数器显示的位置 -->
       <img src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
     </div>
-
-    <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%">
-  </div>
+    
+    <!-- 右侧对齐的动图 -->
+    <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 </div>
 
 ### Github activity level
