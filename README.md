@@ -1,8 +1,6 @@
 # rainbowl99.github.io
 <img align="right" src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
 
-### 
-<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 ### **Technology Stacks:**
 
@@ -13,6 +11,8 @@
 <a href="https://www.solidworks.com/"><code><img height="20" src="./images/solidworks.jpg"></code></a>
 <a href="https://www.3ds.com/products-services/catia/"><code><img height="20" src="./images/CATIA.png"></code></a>
 <a href="https://isocpp.org/"><code><img height="20" src="./images/C.jpg"></code></a>
+
+<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 ### Project
 
