@@ -1,5 +1,5 @@
 # rainbowl99.github.io
-<img src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
 
 ### **Technology Stacks:**
 <a href="https://www.python.org"><code><img height="20" src="./images/python.png"></code></a>
