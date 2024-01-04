@@ -1,9 +1,5 @@
 # Zhichen LU —— Sorbonne University 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-   <img alt="GIF" src="./images/code.gif" width="430" height="100%" />
-</div>
-
 <img align="right" src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
    
 ### **Technology Stacks:**
@@ -30,6 +26,10 @@
 11. [Identification 2ddl Bras dynamique](https://github.com/rainbowl99/Identification_2ddl_Bras_dynamique.git)<br>
 12. [IDENTIFICATION-D-UN-ROBOT-PLAN-RR](https://github.com/rainbowl99/IDENTIFICATION-D-UN-ROBOT-PLAN-RR.git)<br>
 
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+   <img alt="GIF" src="./images/code.gif" width="860" height="100%" />
+</div>
 
 ### Github activity level
 
