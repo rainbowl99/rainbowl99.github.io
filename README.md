@@ -1,7 +1,9 @@
 # rainbowl99.github.io
 <img align="right" src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
 
+### 
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
 ### **Technology Stacks:**
 
 <a href="https://www.python.org"><code><img height="20" src="./images/python.png"></code></a>
