@@ -2,7 +2,6 @@
   
 # Zhichen LU —— Sorbonne University M2
 --- Advanced systems and robotics ---
-
 </div>
 
 
