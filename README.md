@@ -26,9 +26,13 @@
 11. [Identification 2ddl Bras dynamique](https://github.com/rainbowl99/Identification_2ddl_Bras_dynamique.git)<br>
 12. [IDENTIFICATION-D-UN-ROBOT-PLAN-RR](https://github.com/rainbowl99/IDENTIFICATION-D-UN-ROBOT-PLAN-RR.git)<br>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+   <img alt="GIF" src="./images/code.gif" width="600" style="max-width: 100%; height: auto; margin: auto;" />
+</div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-   <img alt="GIF" src="./images/code.gif" width="860" height="100%" />
+
+<div style="display: flex; justify-content: center; align-items: center;">
+   <img alt="GIF" src="./images/code.gif" width="600" height="100%"; height: auto; margin: auto;"  />
 </div>
 
 ### Github activity level
