@@ -5,7 +5,7 @@
 
 <a href="https://www.python.org"><code><img height="20" src="./images/python.png"></code></a>
 <a href="https://pytorch.org/"><code><img height="20" src="./images/Pytorch.png"></code></a>
-<a href="https://www.tensorflow.org/"><code><img height="20" src="./images/Tensorflow.png"></code></a>
+<a href="https://www.tensorflow.org/"><code><img height="20" src="./images/TensorFlow.png"></code></a>
 <a href="https://www.mathworks.com/products/matlab.html"><code><img height="20" src="./images/Matlab.png"></code></a>
 <a href="https://www.solidworks.com/"><code><img height="20" src="./images/solidworks.jpg"></code></a>
 <a href="https://www.3ds.com/products-services/catia/"><code><img height="20" src="./images/CATIA.png"></code></a>
