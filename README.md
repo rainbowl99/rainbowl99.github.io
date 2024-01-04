@@ -1,7 +1,7 @@
 <div align="center">
    
 # Zhichen LU —— Sorbonne University M2
---- Advanced systems and robotics ---
+<strong style="color: red;">--- Advanced systems and robotics ---
 
 </div>
 
