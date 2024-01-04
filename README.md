@@ -1,7 +1,11 @@
-# Zhichen LU —— Sorbonne University M2 —— Advanced systems and robotics
-
-
+<div align="center">
    
+# Zhichen LU —— Sorbonne University M2
+--- Advanced systems and robotics ---
+
+</div>
+
+
 ### **Technology Stacks:**
 <a href="https://www.python.org"><code><img height="20" src="./images/python.png"></code></a>
 <a href="https://pytorch.org/"><code><img height="20" src="./images/Pytorch.png"></code></a>
