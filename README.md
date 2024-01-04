@@ -1,9 +1,6 @@
 # rainbowl99.github.io
 
-<!-- 右侧对齐的访问计数器 -->
-<div align="right"> <!-- 将这个 div 放在你希望计数器显示的位置 -->
-  <img src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
-</div>
+ <img src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
 
 ### **Technology Stacks:**
 
