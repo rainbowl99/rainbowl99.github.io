@@ -26,16 +26,20 @@
 11. [Identification 2ddl Bras dynamique](https://github.com/rainbowl99/Identification_2ddl_Bras_dynamique.git)<br>
 12. [IDENTIFICATION-D-UN-ROBOT-PLAN-RR](https://github.com/rainbowl99/IDENTIFICATION-D-UN-ROBOT-PLAN-RR.git)<br>
 
+### Github activity level
+
 <div style="display: flex; justify-content: center; align-items: center;">
-   <img alt="GIF" src="./images/code.gif" width="600" style="max-width: 100%; height: auto; margin: auto;" />
+   <img alt="GIF" src="./images/code.gif" width="600" style="max-width: 100%; height: auto; margin-right: 10px;" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowl99&langs_count=6" style="max-width: 100%; height: auto; margin-left: 10px;" />
 </div>
+
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
    <img alt="GIF" src="./images/code.gif" width="600" style="max-width: "100%"; height: auto; margin: auto;"  />
 </div>
 
-### Github activity level
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainbowl99&langs_count=6)
 
