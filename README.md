@@ -1,7 +1,7 @@
 # Zhichen LU —— Sorbonne University 
 
 <!-- 右侧对齐的动图 -->
-<img align="left" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 ### **Technology Stacks:**
 <a href="https://www.python.org"><code><img height="20" src="./images/python.png"></code></a>
