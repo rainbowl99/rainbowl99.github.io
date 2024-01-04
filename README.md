@@ -1,5 +1,8 @@
 # Zhichen LU —— Sorbonne University 
 
+<!-- 右侧对齐的动图 -->
+<img align="left" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
 <div align="right"> <!-- 将这个 div 放在你希望计数器显示的位置 -->
       <img src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
 </div>
@@ -13,8 +16,7 @@
 <a href="https://www.3ds.com/products-services/catia/"><code><img height="20" src="./images/CATIA.png"></code></a>
 <a href="https://isocpp.org/"><code><img height="20" src="./images/C.jpg"></code></a>
 
-<!-- 右侧对齐的动图 -->
-<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
 
 ### **Projects:**
 1. [Projet-de-Simulation-robotique](https://github.com/rainbowl99/Projet-de-Simulation-robotique.git)<br>
