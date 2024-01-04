@@ -1,9 +1,7 @@
 # rainbowl99.github.io
-
- <img src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
+<img src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
 
 ### **Technology Stacks:**
-
 <a href="https://www.python.org"><code><img height="20" src="./images/python.png"></code></a>
 <a href="https://pytorch.org/"><code><img height="20" src="./images/Pytorch.png"></code></a>
 <a href="https://www.tensorflow.org/"><code><img height="20" src="./images/TensorFlow.png"></code></a>
