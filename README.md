@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
+# <img align="right" src="https://count.getloli.com/get/@:rainbowl99?theme=rule34">
 
 # Zhichen LU —— Sorbonne University M2 <br>
 <strong style="color: red;">Advanced systems and robotics</strong>
