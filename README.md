@@ -28,6 +28,8 @@
 10. [Trajectory tracking](https://github.com/rainbowl99/Suivi_Chemin.git) : The aim of the project is to apply trajectory tracking algorithms for wheeled robots (in particular unicycle robots) using Matlab Simulink. The focus is on demonstrating these algorithms using several unicycle robots moving along the same trajectory in a convoy.<br>
 11. [Identification 2ddl Dynamic arm](https://github.com/rainbowl99/Identification_2ddl_Bras_dynamique.git) : The aim of the project is to identify the parameters of a dynamic model of a manipulator with two degrees of freedom. This involves a theoretical study to obtain a recognizable form of the model for a specific case, as well as the practical application of the recognition technique in MATLAB and analysis of the results.<br>
 12. [IDENTIFICATION OF A PLANAR ROBOT RR](https://github.com/rainbowl99/IDENTIFICATION-D-UN-ROBOT-PLAN-RR.git) : The aim of this task is to identify the inertial and geometrical properties of a planar RRR robot. By analyzing angle and torque signals based on a periodic trajectory, the aim is to deduce the dynamic parameters of the two-degree-of-freedom robot.<br>
+13. [Multi-rotor-UAV-Attitude-Estimation](https://github.com/rainbowl99/Multi-rotor-UAV-Attitude-Estimation.git) : This is a project carried out in the Matlab-Simulink environment with the aim of deeply exploring and implementing attitude estimation algorithms for UAVs. My main work focuses on the development and testing of linear and nonlinear attitude estimators, including steps to evaluate the performance of the estimators under different flight conditions and environments.
+
 
 ### Github activity level
 
